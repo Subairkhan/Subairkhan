@@ -1,6 +1,6 @@
 # Hi, I'm Subairkhan 👋
 
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
 I'm an aspiring Data Analyst transitioning from Production and Quality into data analytics. I enjoy working with data to identify trends, understand customer behavior, and generate useful business insights.
 
